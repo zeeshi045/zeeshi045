@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, .NET framework**
 
-- 📫 How to reach me **Zeeshanfarooq139@gmail.com**
+- 📫 How to reach me **Zeeshanfarooq139@gmail.com , https://www.linkedin.com/in/muhammad-zeeshan-farooq-98838b25b/** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

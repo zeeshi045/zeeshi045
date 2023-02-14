@@ -1,4 +1,4 @@
-![logo](https://github.com/zeeshi045/zeeshi045/blob/main/download.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan Farooq</h1>
 <h3 align="center">A passionate Software Engineer from pakistan</h3>
